@@ -1,0 +1,17 @@
+li{
+    display: inline;
+}
+
+button{
+    color: midnightblue;
+    font-size: large;
+    outline: none;
+}
+
+button:focus{
+    color: red;
+}
+
+#mibLogo{
+    cursor: pointer;
+}
